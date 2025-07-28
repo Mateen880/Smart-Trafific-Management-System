@@ -1,5 +1,6 @@
 # Smart-Trafific-Management-System
 🚦 Smart Traffic Management System – C++
+
 A console-based traffic control system developed in C++, utilizing advanced data structures and algorithms to manage and optimize traffic flow across multiple intersections.
 
 ✨ Features
