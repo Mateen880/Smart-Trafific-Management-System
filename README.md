@@ -3,6 +3,7 @@
 A console-based traffic control system developed in C++, utilizing advanced data structures and algorithms to manage and optimize traffic flow across multiple intersections.
 
 ✨ Features
+
 🧠 Implements intelligent routing using Dijkstra's and A* algorithms
 
 🗺️ Simulates dynamic traffic behavior across a road network
